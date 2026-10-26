@@ -1,0 +1,5 @@
+*.pgm
+*.exe
+*.o
+blur_mpi
+blur_pthread
